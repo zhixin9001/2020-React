@@ -1,8 +1,8 @@
 import React from "react";
 import { render } from "react-dom";
 import Hello from "./Hello";
-import ChatApp from "./c01/ChatApp";
-import CommentBox from "./c02/CommentBox";
+import ChatApp from "./c01/ChatApp1";
+import CommentBox from "./c02/CommentBox1";
 import { TabSelectorSample } from "./c02/TabSelector";
 import { StatefulTabSelectSample } from "./c02/StatefulTabSelector";
 import Clock from "./c03/Clock";
