@@ -18,3 +18,4 @@ namespace ProblemOne.Trains
         public double Weight { get; }
     }
 }
+
